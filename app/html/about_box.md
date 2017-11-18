@@ -1,4 +1,4 @@
-This is a single-page HTML view of your [todo.txt](http://http://todotxt.com/) file. Use the [command line interface](http://https://github.com/ginatrapani/todo.txt-cli/downloads) for capture, editing, and completing tasks. Then use Bulldog for a more application-like feel for managing your tasks at a higher level.
+This is a single-page HTML view of your [todo.txt](http://todotxt.com/) file. Use the [command line interface](http://https://github.com/ginatrapani/todo.txt-cli/downloads) for capture, editing, and completing tasks. Then use Bulldog for a more application-like feel for managing your tasks at a higher level.
 
 Please let us know of any [issues or feature requests](http://github.com/infews/bulldog/issues).  
 
